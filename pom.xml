@@ -50,7 +50,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <sources>src/main/resources/MessaggiFatturaTypes_v1.0.xsd</sources>
+                    <sources>src/main/resources/MessaggiTypes_v1.1.xsd</sources>
                     <packageName>com.arzamed.fatture.xml.v1</packageName>
                 </configuration>
             </plugin>

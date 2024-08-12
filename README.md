@@ -9,3 +9,6 @@ Then run
 ```bash
 mvn clean install
 ```
+
+From :
+https://github.com/VLKNKBKSZ/xsdToJavaPojo/tree/master
